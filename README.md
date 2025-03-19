@@ -15,3 +15,5 @@ at top → cuts the ellipse at the top of the element with the ellipse on the bo
 To put an image on top of the ellipse I had to create an element outside of its container. I then did position absolute and centered it.
 
 On the desktop version I set the width of the photo to a vw value so it is responsive with width (calc(25vw + 20vh)). I set the value of left of the img container to a vw value as well so its container is responsive with width.
+
+![screenshot](screenshot-1.png)
